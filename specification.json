@@ -1,0 +1,5 @@
+{
+  "ImageId": "ami-id",
+  "KeyName": "KEY-NAME",
+  "InstanceType": "t2.medium"
+}
